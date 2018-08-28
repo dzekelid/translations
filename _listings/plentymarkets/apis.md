@@ -11,11 +11,21 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: ""
 tags: Translations
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/plentymarkets/apis.md
 specificationVersion: "0.14"
 apis:
+- name: plentymarkets REST-API - Create a new translation
+  x-api-slug: restlanguagestranslations-post
+  description: Creates a new translation.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/plentymarkets/restlanguagestranslations-post-openapi.md
 - name: plentymarkets REST-API - Delete a translation
   x-api-slug: restlanguagestranslationstranslationid-delete
   description: Deletes a translation. The ID of the translation must be specified.
@@ -65,6 +75,26 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/plentymarkets/restplugin-setspluginsetidlanguageslanguagecode-delete-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/plentymarkets/restplugin-setspluginsetidlanguageslanguagecode-delete-openapi.md
+- name: plentymarkets REST-API - Create a new translation
+  x-api-slug: restlanguagestranslations-post
+  description: Creates a new translation.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/plentymarkets/restlanguagestranslations-post-openapi.md
+- name: plentymarkets REST-API - Create a new translation
+  x-api-slug: restlanguagestranslations-post
+  description: Creates a new translation.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/plentymarkets/restlanguagestranslations-post-openapi.md
 - name: plentymarkets REST-API - Delete a translation
   x-api-slug: restlanguagestranslationstranslationid-delete
   description: Deletes a translation. The ID of the translation must be specified.
@@ -163,6 +193,65 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/plentymarkets/restplugin-setspluginsetidlanguageslanguagecode-delete-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/plentymarkets/restplugin-setspluginsetidlanguageslanguagecode-delete-openapi.md
+- name: plentymarkets REST-API - Delete multiple translation
+  x-api-slug: restplugin-setspluginsetidlanguageslanguagecode-delete
+  description: Deletes multiple translation. The pluginSetId and languageCode must
+    be specified.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/plentymarkets/restplugin-setspluginsetidlanguageslanguagecode-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/plentymarkets/restplugin-setspluginsetidlanguageslanguagecode-delete-openapi.md
+- name: plentymarkets REST-API - Update a translation
+  x-api-slug: restlanguagestranslationstranslationid-put
+  description: Updates a translation. The ID of the translation must be specified
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/plentymarkets/restlanguagestranslationstranslationid-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/plentymarkets/restlanguagestranslationstranslationid-put-openapi.md
+- name: plentymarkets REST-API - Get a translation
+  x-api-slug: restlanguagestranslationstranslationid-get
+  description: Gets a translation. The ID of the translation must be specified.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/plentymarkets/restlanguagestranslationstranslationid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/plentymarkets/restlanguagestranslationstranslationid-get-openapi.md
+- name: plentymarkets REST-API - Delete a translation
+  x-api-slug: restlanguagestranslationstranslationid-delete
+  description: Deletes a translation. The ID of the translation must be specified.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/plentymarkets/restlanguagestranslationstranslationid-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/plentymarkets/restlanguagestranslationstranslationid-delete-openapi.md
+- name: plentymarkets REST-API - Create a new translation
+  x-api-slug: restlanguagestranslations-post
+  description: Creates a new translation.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/plentymarkets/restlanguagestranslations-post-openapi.md
 x-common:
 - type: x-blog-rss
   url: https://www.plentymarkets.co.uk/?ActionCall=WebActionRSS&rrss_id=1

@@ -13,11 +13,24 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "9"
 x-alexaRank: "0"
 tags: Translations
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/google-translate/apis.md
 specificationVersion: "0.14"
 apis:
+- name: Translate - Translate Text
+  x-api-slug: v2-get
+  description: Returns text translations from one language to another.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-translate-hello-lead-2x.png
+  humanURL: https://translate.google.com/
+  baseURL: ://www.googleapis.com//language/translate
+  tags: Google APIs, Stack Network, Stack, API Service Provider, API Provider, Translations,
+    Languages, Profiles, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/google-translate/v2-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/google-translate/v2-get-openapi.md
 - name: Translate - Translate Text
   x-api-slug: v2-get
   description: Returns text translations from one language to another.

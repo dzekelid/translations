@@ -3,8 +3,8 @@ swagger: "2.0"
 x-collection-name: Plentymarkets
 x-complete: 0
 info:
-  title: Plentymarkets Delete a translation
-  description: Deletes a translation. The ID of the translation must be specified.
+  title: Plentymarkets Create a new translation
+  description: Creates a new translation.
   contact:
     name: plentymarkets
     url: https://forum.plentymarkets.com/c/rest-api

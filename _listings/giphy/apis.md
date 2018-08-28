@@ -11,8 +11,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "9"
 x-alexaRank: "0"
 tags: Translations
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/giphy/apis.md
 specificationVersion: "0.14"
 apis:
@@ -136,6 +136,36 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/giphy/stickerstranslate-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/giphy/stickerstranslate-get-openapi.md
+- name: Giphy - Translate phrase to Sticker
+  x-api-slug: stickerstranslate-get
+  description: The translate API draws on search, but uses the GIPHY `special sauce`
+    to handle translating from one vocabulary to another. In this case, words and
+    phrases to GIFs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/giphy-logo.png
+  humanURL: https://giphy.com
+  baseURL: http://api.giphy.com//v1
+  tags: Images, Gifs, Indie EdTech Data Jam, Stack Network, API Provider, Profiles,
+    General Data, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/giphy/stickerstranslate-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/giphy/stickerstranslate-get-openapi.md
+- name: Giphy - Translate phrase to GIF
+  x-api-slug: gifstranslate-get
+  description: The translate API draws on search, but uses the GIPHY `special sauce`
+    to handle translating from one vocabulary to another. In this case, words and
+    phrases to GIF
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/giphy-logo.png
+  humanURL: https://giphy.com
+  baseURL: http://api.giphy.com//v1
+  tags: Images, Gifs, Indie EdTech Data Jam, Stack Network, API Provider, Profiles,
+    General Data, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/giphy/gifstranslate-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/giphy/gifstranslate-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://gig..crowd.api.gallery.streamdata.io

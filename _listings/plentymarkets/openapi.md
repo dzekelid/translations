@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Plentymarkets
 x-complete: 1
@@ -140,4 +139,3 @@ paths:
       tags:
       - Multiple
       - Translation
----

@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1564-gengo
 x-kinRank: "7"
 x-alexaRank: "39638"
 tags: Translations
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/gengo-human-translation/apis.md
 specificationVersion: "0.14"
 apis: []

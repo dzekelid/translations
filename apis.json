@@ -1,0 +1,432 @@
+{
+	"name": "Streadata.io API Gallery - Translations",
+	"description": "This is a repository of translations APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/translations.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://translations.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Facebook",
+			"x-api-slug": "facebook",
+			"description": "Create an account or log into Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/196-facebook.jpg",
+			"humanURL": "http:///business",
+			"baseURL": "https:///",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/facebook/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bing Maps",
+			"x-api-slug": "bing-maps",
+			"description": "The Bing Maps Dev Center provides the tools and resources you need to develop with Bing Maps. You can store, access, and keep track of your store locations or other spatial data through our online data source management system. You will also receive important announcements around your Bing Maps accou",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Bing_Maps_blue20logo.jpg",
+			"humanURL": "https://www.bingmapsportal.com/",
+			"baseURL": ":///",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/bing-maps/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "myGengo Human Translation",
+			"x-api-slug": "mygengo-human-translation",
+			"description": "People-powered translation at scale. Gengo provides fast, affordable and quality translations by native speakers located worldwide.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/442-mygengo-human-translation.jpg",
+			"humanURL": "http://mygengo.com",
+			"baseURL": "https:///",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/mygengo-human-translation/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "crowdin",
+			"x-api-slug": "crowdin",
+			"description": "Crowdin is a localization project management platfom and translation tool for developers and website owners. We make it easy to work with content being translated using our collaboration platform.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/567-crowdin.jpg",
+			"humanURL": "https://crowdin.net/",
+			"baseURL": "https:///",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/crowdin/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Get Localization",
+			"x-api-slug": "get-localization",
+			"description": "Get Localization provides professional translation, translation management system and crowdsourcing services.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/599-get-localization.jpg",
+			"humanURL": "http://www.getlocalization.com",
+			"baseURL": "https:///",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/get-localization/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Europeana",
+			"x-api-slug": "europeana",
+			"description": "Explore 51,990,182 artworks, artefacts, books, videos and sounds from more than 3,500 museums, galleries, libraries and archives across Europe.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/777-europeana.jpg",
+			"humanURL": "http://europeana.eu/portal/",
+			"baseURL": "https://www.europeana.eu/v2/",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/europeana/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "lingotip",
+			"x-api-slug": "lingotip",
+			"description": "LingoTip translation services ranges from document translations to website and software localization with specialization in internet localization solutions",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/901-lingotip.jpg",
+			"humanURL": "http://www.lingotip.com/",
+			"baseURL": "https:///",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/lingotip/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Straker Translations",
+			"x-api-slug": "straker-translations",
+			"description": "Straker Translations is revolutionizing the translation industry by offering fast, efficient and cost effective translations with their unique pay-per-hour translation model, it enables clients to significantly reduce their ongoing translation costs as well as simplifying the translation process.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/straker-translation.png",
+			"humanURL": "http://straker.ie",
+			"baseURL": "https:///",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/straker-translations/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Wrike",
+			"x-api-slug": "wrike",
+			"description": "Wrike is an online project management software that gives you full visibility and control over your tasks. With the help of our product, managing projects becomes easier. Our project management tools include time tracking, project planning and organiza...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1222-wrike.jpg",
+			"humanURL": "http://www.wrike.com",
+			"baseURL": "https:///",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/wrike/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Merriam-Webster Dictionary",
+			"x-api-slug": "merriamwebster-dictionary",
+			"description": "The Merriam-Webster Dictionary API gives developers access to a comprehensive resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary. Make your applications better by integrating our authoritative definitions, etymologies, audio pronunciations, synonyms and antonyms, and more. Our robust API empowers developers to enhance word games and create educational, language learning, and other word-related applications for the digital environment. We look forward to seeing all of the new, innovative products powered by Merriam-Websters trusted references.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dev-center-logo-500x100.png",
+			"humanURL": "http://dictionaryapi.com/",
+			"baseURL": "https:///",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/merriamwebster-dictionary/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sprawk",
+			"x-api-slug": "sprawk",
+			"description": "Sprawk helps you translate your website your way, and within your budget - reaching more customers and increasing sales.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1479-sprawk.jpg",
+			"humanURL": "https://www.sprawk.com",
+			"baseURL": "https:///",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/sprawk/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TEXTKING",
+			"x-api-slug": "textking",
+			"description": "Translation agency for modern translation solutions  Flexible  Personal  Efficient  more than 2,500 professional translators.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1526-textking.jpg",
+			"humanURL": "https://www.textking.com/api",
+			"baseURL": "https:///",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/textking/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Gengo Human Translation",
+			"x-api-slug": "gengo-human-translation",
+			"description": "People-powered translation at scale. Gengo provides fast, affordable and quality translations by native speakers located worldwide.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1564-gengo-human-translation.jpg",
+			"humanURL": "http://gengo.com",
+			"baseURL": "https:///",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/gengo-human-translation/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Rev",
+			"x-api-slug": "rev",
+			"description": "Online audio transcription, video captions and document translation services. For immigration, business, legal, academic and personal needs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1846-rev.jpg",
+			"humanURL": "http://www.rev.com",
+			"baseURL": "https:///",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/rev/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "KantanMT.com",
+			"x-api-slug": "kantanmt-com",
+			"description": "KantanMT is a cloud-based statistical machine translation platform. We provide high-quality MT services using the power and flexibility of the cloud.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2045-kantanmt-com.jpg",
+			"humanURL": "http://www.kantanmt.com/",
+			"baseURL": "https:///",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/kantanmt-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Transifex",
+			"x-api-slug": "transifex",
+			"description": "Transifex is a proprietary, web-based translation platform; that is to say, it is a globalization management system.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11776-transifex.jpg",
+			"humanURL": "https://www.transifex.com/",
+			"baseURL": "https:///",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/transifex/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MotaWord",
+			"x-api-slug": "motaword",
+			"description": "MotaWord is the world&rsquo;s fastest, lowest cost, cloud-based, collaborative business translation platform.MotaWord combines the efforts of talented human translators through the use of a cloud based translation platform. Our translators are able to login simultaneously into projects that fit their language combination and provide translation service collaboratively - while also seeing the whole content for contextual purposes. This ability to simultaneously utilize multiple translators makes MotaWord exceptionally fast and highly accurate.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/motaword-logo.png",
+			"humanURL": "http://www.motaword.com",
+			"baseURL": "https://api.motaword.com//",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/motaword/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Giphy",
+			"x-api-slug": "giphy",
+			"description": "Giphy is a search engine for GIFs. Animated GIFs have existed for decades, but there was still no good way to browse and discover the best the web had to offer. And the vision for Giphy isn&rsquo;t really just about finding GIFs. It&rsquo;s a search engine today but soon you&rsquo;ll see it grow into a community, a platform with a host of features targeted at gif artists, enthusiasts, bloggers, and anyone generally looking to discover or create that next big meme.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/giphy-logo.png",
+			"humanURL": "https://giphy.com",
+			"baseURL": "http://api.giphy.com//v1",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/giphy/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Translate",
+			"x-api-slug": "google-translate",
+			"description": "Cloud Translation API provides a simple programmatic interface for translating an arbitrary string into any supported language. Translation API is highly responsive, so websites and applications can integrate with Translation API for fast, dynamic translation of source text from the source language to a target language (e.g., French to English). Language detection is also available In cases where the source language is unknown. The underlying technology pushes the boundary of Machine Translation and is updated constantly to seamlessly improve translations and introduce new languages and language pairs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-translate-hello-lead-2x.png",
+			"humanURL": "https://translate.google.com/",
+			"baseURL": "://www.googleapis.com//language/translate",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/google-translate/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SAP",
+			"x-api-slug": "sap",
+			"description": "Get software and technology solutions from SAP, the leader in business applications.  Run simple with the best in cloud, analytics, mobile and IT solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28252-www-sap-com.jpg",
+			"humanURL": "https://www.sap.com/index.html",
+			"baseURL": "https://sandbox.api.sap.com//translationhub/api/v1",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/sap/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Oxford Dictionaries",
+			"x-api-slug": "oxford-dictionaries",
+			"description": "If you&rsquo;re looking to enhance your app or website with dictionary data, don&rsquo;t compromise on quality. The Oxford Dictionaries API offers easy and intuitive access to Oxfords dictionary content, which is trusted around the world. Here at Oxford Dictionaries, home of the OED, we love words. That&rsquo;s why we have experienced lexicographers tracking the living language, delving deep into our corpora and monitoring a wide range of media in order to understand how words are being used and how language is evolving. This research is used by our editors to write and edit dictionary entries and translations, meaning we&rsquo;re able to offer up-to-date, accurate, and reliable lexical content in multiple languages.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/oxford-dictionaries-api.png",
+			"humanURL": "https://developer.oxforddictionaries.com/",
+			"baseURL": "https://od-api-demo.oxforddictionaries.com:443//api/v1",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/oxford-dictionaries/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Plentymarkets",
+			"x-api-slug": "plentymarkets",
+			"description": "plentymarkets is an all-in-one e-commerce ERP solution, which combines a comprehensive stock management system with a versatile shop system and effortless multichannel sales. Thanks to comprehensive functions and interfaces that include all steps of the e-commerce value chain, you can use the cloud based software to completely automate all of your e-business processes as well as your companys own individual processes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png",
+			"humanURL": "http://www.plentymarkets.co.uk",
+			"baseURL": "https://example.com//",
+			"tags": "Translations",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/plentymarkets/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Translations",
+	"include": [
+		{
+			"name": "Facebook",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/facebook/apis.yaml"
+		},
+		{
+			"name": "Bing Maps",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/bing-maps/apis.yaml"
+		},
+		{
+			"name": "myGengo Human Translation",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/mygengo-human-translation/apis.yaml"
+		},
+		{
+			"name": "crowdin",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/crowdin/apis.yaml"
+		},
+		{
+			"name": "Get Localization",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/get-localization/apis.yaml"
+		},
+		{
+			"name": "Europeana",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/europeana/apis.yaml"
+		},
+		{
+			"name": "lingotip",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/lingotip/apis.yaml"
+		},
+		{
+			"name": "Straker Translations",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/straker-translations/apis.yaml"
+		},
+		{
+			"name": "Wrike",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/wrike/apis.yaml"
+		},
+		{
+			"name": "Merriam-Webster Dictionary",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/merriamwebster-dictionary/apis.yaml"
+		},
+		{
+			"name": "Sprawk",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/sprawk/apis.yaml"
+		},
+		{
+			"name": "TEXTKING",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/textking/apis.yaml"
+		},
+		{
+			"name": "Gengo Human Translation",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/gengo-human-translation/apis.yaml"
+		},
+		{
+			"name": "Rev",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/rev/apis.yaml"
+		},
+		{
+			"name": "KantanMT.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/kantanmt-com/apis.yaml"
+		},
+		{
+			"name": "Transifex",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/transifex/apis.yaml"
+		},
+		{
+			"name": "MotaWord",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/motaword/apis.yaml"
+		},
+		{
+			"name": "Giphy",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/giphy/apis.yaml"
+		},
+		{
+			"name": "Google Translate",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/google-translate/apis.yaml"
+		},
+		{
+			"name": "SAP",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/sap/apis.yaml"
+		},
+		{
+			"name": "Oxford Dictionaries",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/oxford-dictionaries/apis.yaml"
+		},
+		{
+			"name": "Plentymarkets",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/translations/master/_listings/plentymarkets/apis.yaml"
+		}
+	]
+}
